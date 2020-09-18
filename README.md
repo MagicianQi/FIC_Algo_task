@@ -14,7 +14,7 @@ FIC 算法服务 后台任务
 
 ## Setup
 
-    bash deply.sh
+    bash deploy.sh
 
 ## Add Task
 
